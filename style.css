@@ -1,0 +1,7 @@
+#s, #m, #t, #w, #th, #f, #sa{display:none;}
+
+#s, #m, #t, #w, #th, #f, #sa{
+                              position:relative;
+                              margin-top: 5%;
+                              left: 5%;
+}
