@@ -7,7 +7,7 @@ msg = document.write('Sunday');
 msg = document.getElementById('s').style.display= 'block';
 break;
 case 1 :
-msg = document.write('Monday');
+//msg = document.write('Monday');
 msg = document.getElementById('m').style.display= 'block';
 break;
 case 2 :
@@ -19,11 +19,11 @@ msg = dcument.write('Wednesday');
 msg = document.getElementById('w').style.display= 'block';
 break;
 case 4 :
-msg = document.write('Thursday');
+//msg = document.write('Thursday');
 msg = document.getElementById('th').style.display= 'block';
 break;
 case 5 :
-msg = document.write('Friday');
+//msg = document.write('Friday');
 msg = document.getElementById('f').style.display= 'block';
 break;
 default :
