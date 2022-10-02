@@ -15,7 +15,7 @@ msg = document.write('Tuesday');
 msg = document.getElementById('t').style.display= 'block';
 break;
 case 3 :
-msg = dcument.write('Wednesday');
+msg = document.write('Wednesday');
 msg = document.getElementById('w').style.display= 'block';
 break;
 case 4 :
